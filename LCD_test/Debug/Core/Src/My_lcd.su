@@ -1,0 +1,14 @@
+my_lcd.c:13:12:CreateButton	32	static
+my_lcd.c:31:6:DestroyButton	16	static
+my_lcd.c:38:6:DrawButton	24	static
+my_lcd.c:47:5:CheckButton	16	static
+my_lcd.c:56:6:My_strcpy	32	static
+my_lcd.c:66:5:deg	24	static
+my_lcd.c:77:5:str2num	32	static
+my_lcd.c:88:6:DrawWhiteRect	24	static
+my_lcd.c:96:6:PrintInTRS	24	static
+my_lcd.c:114:6:PreConvert	32	static
+my_lcd.c:138:6:DeleteSymbol	24	static
+my_lcd.c:151:6:ButtonResponse	40	static
+my_lcd.c:213:6:UpdateScreen	24	static
+my_lcd.c:229:6:UpdateRCV	16	static
